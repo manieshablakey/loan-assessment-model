@@ -1,0 +1,23 @@
+"loan_status","emp_length","count"
+"Charged Off","1 year",3232
+"Charged Off","10+ years",15580
+"Charged Off","2 years",4255
+"Charged Off","3 years",3773
+"Charged Off","4 years",2862
+"Charged Off","5 years",2754
+"Charged Off","6 years",2358
+"Charged Off","7 years",2514
+"Charged Off","8 years",2595
+"Charged Off","9 years",2077
+"Charged Off","< 1 year",4119
+"Fully Paid","1 year",12335
+"Fully Paid","10+ years",63776
+"Fully Paid","2 years",17150
+"Fully Paid","3 years",15131
+"Fully Paid","4 years",11295
+"Fully Paid","5 years",10792
+"Fully Paid","6 years",9115
+"Fully Paid","7 years",10001
+"Fully Paid","8 years",9715
+"Fully Paid","9 years",7689
+"Fully Paid","< 1 year",14898

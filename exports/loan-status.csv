@@ -1,0 +1,8 @@
+"loan_status","No of loans"
+"Default",18
+"Late (16-30 days)",706
+"In Grace Period",1449
+"Late (31-120 days)",3334
+"Charged Off",49558
+"Current",82939
+"Fully Paid",191264

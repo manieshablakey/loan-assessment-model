@@ -1,0 +1,7 @@
+"loan_status","home_ownership","count"
+"Charged Off","MORTGAGE",20215
+"Fully Paid","MORTGAGE",93729
+"Charged Off","OWN",4560
+"Fully Paid","OWN",17522
+"Charged Off","RENT",21344
+"Fully Paid","RENT",70645
