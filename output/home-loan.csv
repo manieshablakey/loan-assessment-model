@@ -1,0 +1,7 @@
+"loan_status","home_ownership","total"
+"Charged Off","MORTGAGE","19878"
+"Fully Paid","MORTGAGE","104966"
+"Charged Off","OWN","4025"
+"Fully Paid","OWN","17961"
+"Charged Off","RENT","21311"
+"Fully Paid","RENT","84646"
