@@ -12,11 +12,13 @@ Accuracy scores are obtained. Evaluation measures from confusion matrix are also
 
 Technologies used:
 - SQL
-- pandas
-- numpy
-- matplotlib
-- scikit-learn
-- folium
+- Python:
+  * pandas
+  * numpy
+  * matplotlib
+  * scikit-learn
+  * seaborn
+  * folium
 
 
 
